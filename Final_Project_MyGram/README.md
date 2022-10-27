@@ -47,7 +47,5 @@ To test this project, you need to have Go in your local and run command below
 ```golang
 go run application.go
 ```
+make .vscode folder and move launch.json to the folder
 
-### Endpoint List
-
-TBC
