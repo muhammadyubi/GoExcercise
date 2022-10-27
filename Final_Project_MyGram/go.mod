@@ -1,4 +1,4 @@
-module github.com/rpturbina/final-project-go
+module github.com/muhammadyubi/GoExcercise/tree/main/Final_Project_MyGram
 
 go 1.19
 
